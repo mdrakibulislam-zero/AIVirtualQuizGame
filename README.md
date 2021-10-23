@@ -17,6 +17,8 @@ Math is a built-in module that we can use for mathematical tasks.
 
 CSV (Comma Separated Values) format is one of the most simple and common ways to store tabular data. To represent a CSV file, it must be saved with the .csv file extension. CSV is a build-in module that we can use for working with CSV files much easier.
 
+Time is a built-in module that we can use for handle time-related tasks.
+
 
 ## Required Packages:
 - opencv-python
