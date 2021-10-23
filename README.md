@@ -22,7 +22,7 @@ MediaPipe is a framework mainly used for building audio, video, or any time seri
 ## Usage:
 - First of all you need to install all required packages. 
 - Then run the AIVirtualQuizGame.py file. 
-- Now rise tour hands in-front of your camera
+- Now rise your hand in-front of your camera.
 - Use one finger to hover on the quizzes answers.
 - Join your index and middle finger for make a click on your expected answer.
 - Use the csv file for import your questions and answers.
