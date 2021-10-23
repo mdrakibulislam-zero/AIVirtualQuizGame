@@ -7,11 +7,15 @@ Look for yourself in this <a href="#">video</a>.
 
 
 ## What Have I Done:
-Firstly, I've created a Hand Tracking Module using openCV and MediaPipe. Then, I've created my AI Virtual Quiz Game. I've used a csv file for import all of our questions.
+Firstly, I've created a Hand Tracking Module using openCV, MediaPipe and Math. Then, I've created my AI Virtual Quiz Game using OpenCV, CSV, Time and Hand Tracking Module. I've used a csv file for import all of our questions and answers.
 
 OpenCV is a library used for computer vision applications. With help of OpenCV, we can build an enormous number of applications that work better in real-time. Mainly it's used for image and video processing.
 
 MediaPipe is a framework mainly used for building audio, video, or any time series data. With the help of the MediaPipe framework, we can build very impressive pipelines for different media processing functions.
+
+Math is a built-in module that we can use for mathematical tasks.
+
+CSV (Comma Separated Values) format is one of the most simple and common ways to store tabular data. To represent a CSV file, it must be saved with the .csv file extension. CSV is a build-in module that we can use for working with CSV files much easier.
 
 
 ## Required Packages:
@@ -25,7 +29,7 @@ MediaPipe is a framework mainly used for building audio, video, or any time seri
 - Now rise your hand in-front of your camera.
 - Use one finger to hover on the quizzes answers.
 - Join your index and middle finger for make a click on your expected answer.
-- Use the csv file for import your questions and answers.
+- Use the csv file for import all of your questions and answers.
 
 
 ## Got a Question?
