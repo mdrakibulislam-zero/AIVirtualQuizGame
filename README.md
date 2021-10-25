@@ -3,7 +3,7 @@ This is a simple virtual quiz game that works with gestures using OpenCV. We wil
 
 
 ## Outcome:
-Look for yourself in this <a href="#">video</a>.
+Watch the <a href="#">Outcome</a>.
 
 
 ## What Have I Done:
@@ -30,8 +30,12 @@ Time is a built-in module that we can use for handle time-related tasks.
 - Then run the AIVirtualQuizGame.py file. 
 - Now rise your hand in-front of your camera.
 - Use one finger to hover on the quizzes answers.
-- Join your index and middle finger for make a click on your expected answer.
+- Join your index and middle finger to click on your expected answer.
 - Use the csv file for import all of your questions and answers.
+
+
+## Tutorial:
+Watch the step by step <a href="#">Tutorial</a>.
 
 
 ## Got a Question?
