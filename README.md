@@ -23,11 +23,14 @@ Time is a built-in module that we can use for handle time-related tasks.
 ## Required Packages:
 - opencv-python
 - mediapipe
+- math
+- csv
+- time
 
 
 ## Usage:
 - First of all you need to install all required packages. 
-- Then run the AIVirtualQuizGame.py file. 
+- Then run the VirtualQuizGame.py file. 
 - Now rise your hand in-front of your camera.
 - Use one finger to hover on the quizzes answers.
 - Join your index and middle finger to click on your expected answer.
